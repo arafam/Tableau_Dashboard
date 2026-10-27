@@ -10,7 +10,7 @@ Below are static snapshots of the multi-page dashboard.
 
 ### Page: Sales Performance Overview
 
-![alt text](<images/Dashboard 1.png>)
+![alt text](images/Dashboard%201.png)
 
 Dashboard visualizes total revenue performance across product categories, regions, pricing levels, and time trends to identify key revenue drivers. It highlights that revenue is primarily influenced by price and quantity sold.
 
